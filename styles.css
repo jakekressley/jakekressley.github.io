@@ -1,3 +1,10 @@
+body {
+  text-align: center;
+}
+
+.blurb {
+  font-size: 30px;
+}
 .github-button {
   background-color: #161b22;
   color: white;
@@ -39,4 +46,17 @@
 
 .linkedin-button:active {
   opacity: 0.5;
+}
+
+.social {
+  text-align: center;
+}
+
+.contact-icons {
+  margin: 10px;
+  vertical-align: middle;
+}
+
+a {
+  color: white;
 }
