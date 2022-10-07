@@ -17,10 +17,11 @@
 
 .left-section {
   display: flex;
+  color: pink;
 }
 
 .name {
-  font-size: 36px;
+  font-size: 38px;
   font-weight: 500;
 }
 
