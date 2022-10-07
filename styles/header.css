@@ -16,7 +16,7 @@
 }
 
 .left-section {
-
+  display: flex;
 }
 
 .name {
