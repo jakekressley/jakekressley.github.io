@@ -43,3 +43,25 @@
 .resume {
   color: pink;
 }
+
+.socials {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 50px;
+  background-color: lightpink;
+  width: 300px;
+}
+
+.linkedin-icon {
+  
+  display: flex;
+  height: 40px;
+}
+
+.github-icon{
+  height: 40px;
+  display: flex;
+}
+
