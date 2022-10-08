@@ -39,3 +39,7 @@
 .about:hover {
   text-decoration: underline;
 }
+
+.resume {
+  color: pink;
+}
